@@ -1,4 +1,4 @@
-﻿using System.Collections;
+ㅓ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
@@ -9,7 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     public const float BlockWidth = 0.908f;//요건 y성분
     public const float BlockDepth = 0.143f;//요건 x성분
     public const float Pivotx = 0;
-    public const float Pivoty = -0.464f;
+    public const float Pivoty = 0.464f;
     public const float Pivotz = -1.44f;
     public const int Left = 1;
     public const int Right = 2;
